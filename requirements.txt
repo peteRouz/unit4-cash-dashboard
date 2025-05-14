@@ -4,3 +4,4 @@ numpy
 matplotlib
 openpyxl
 spicy
+streamlit-card
