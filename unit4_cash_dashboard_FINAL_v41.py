@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import os
 import matplotlib.dates as mdates
 import io
-streamlit-card
 from scipy.interpolate import make_interp_spline
 from datetime import datetime
 from streamlit_card import card
