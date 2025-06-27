@@ -6,3 +6,4 @@ openpyxl
 spicy
 streamlit-card
 plotly
+streamlit-calendar
